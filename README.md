@@ -10,6 +10,8 @@ A website that shows various information about all countries in the world and al
 
 ## Outcome
 
+![country_app](https://github.com/omrfrkcpr/Country_App/assets/77440899/6561f03b-c878-4b5a-b5aa-a1f157f83761)
+
 ## Project Skeleton
 
 ```
